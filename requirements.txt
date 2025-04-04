@@ -1,0 +1,4 @@
+#需要的版本
+flask==2.0.1
+line-bot-sdk==1.19.0
+python-dotenv==0.19.2
